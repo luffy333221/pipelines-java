@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/yspanirudh/DevOps/_apis/build/status/luffy333221.pipelines-java?branchName=master)](https://dev.azure.com/yspanirudh/DevOps/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
